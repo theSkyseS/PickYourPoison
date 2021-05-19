@@ -1,0 +1,1390 @@
+﻿{
+    "IngredientsList": [
+        {
+            "name": "Akatosh Butterfly",
+            "effect 1": "Fortify Restoration",
+            "effect 2": "Fortify One-handed",
+            "effect 3": "Weakness to Frost",
+            "effect 4": "Fortify Destruction",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Alkanet Flower",
+            "effect 1": "Resist Poison",
+            "effect 2": "Restore Magicka",
+            "effect 3": "Detect Life",
+            "effect 4": "Damage Stamina",
+            "type": "Flowers",
+            "description": "Eldergleam sanctuary; southern plant that grows in warm weather"
+        },
+        {
+            "name": "Aloe Vera",
+            "effect 1": "Restore Health",
+            "effect 2": "Restore Stamina",
+            "effect 3": "Lingering Damage Undead",
+            "effect 4": "Etherealize",
+            "type": "Flora",
+            "description": "Imported from Cyrodiil & Hammerfell"
+        },
+        {
+            "name": "Amber",
+            "effect 1": "Restore Health",
+            "effect 2": "Fortify Speed",
+            "effect 3": "Resist Fire",
+            "effect 4": "Resist Disease",
+            "type": "Miscellanea",
+            "description": "   "
+        },
+        {
+            "name": "Argonian Scales",
+            "effect 1": "Resist Poison",
+            "effect 2": "Resist Disease",
+            "effect 3": "Fortify Light Armor",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Miscellanea",
+            "description": "Harvested from the body of an Argonian of course"
+        },
+        {
+            "name": "Arrowroot",
+            "effect 1": "Slow",
+            "effect 2": "Fortify Marksman",
+            "effect 3": "Fortify Unarmed",
+            "effect 4": "Fortify Speed",
+            "type": "Flora",
+            "description": "Imported from Cyrodiil, mainly by ship"
+        },
+        {
+            "name": "Atlas Moth",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Detect Life",
+            "effect 3": "Weakness to Magic",
+            "effect 4": "Night Eye",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Ayleid Moon Moth",
+            "effect 1": "Drain Intelligence",
+            "effect 2": "Fortify Alteration",
+            "effect 3": "Fortify Restoration",
+            "effect 4": "Weakness to Shock",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Banded Pennant",
+            "effect 1": "Lingering Damage Undead",
+            "effect 2": "Regenerate Stamina",
+            "effect 3": "Regenerate Magicka",
+            "effect 4": "Waterwalking",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Barley",
+            "effect 1": "Restore Magicka",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Fortify Heavy Armor",
+            "effect 4": "Damage Stamina Regen",
+            "type": "Flora",
+            "description": "Commonly found on farms."
+        },
+        {
+            "name": "Barley Extract",
+            "effect 1": "Restore Magicka",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Fortify Heavy Armor",
+            "effect 4": "Damage Stamina Regen",
+            "type": "Flora",
+            "description": "Commonly found on farms."
+        },
+        {
+            "name": "Bear Bile",
+            "effect 1": "Fortify Heavy Armor",
+            "effect 2": "Fortify Speech",
+            "effect 3": "Fortify Light Armor",
+            "effect 4": "Frenzy",
+            "type": "Fauna",
+            "description": "Rare ingredient obtained from bears."
+        },
+        {
+            "name": "Bear Fat",
+            "effect 1": "Resist Poison",
+            "effect 2": "Restore Stamina",
+            "effect 3": "Restore Health",
+            "effect 4": "Cure Disease",
+            "type": "Fauna",
+            "description": "Bears roam Skyrim's wilderness, both brown, cave and snow variants are present."
+        },
+        {
+            "name": "Bergamot Seeds",
+            "effect 1": "Resist Paralysis",
+            "effect 2": "Lingering Damage Undead",
+            "effect 3": "Resist Disease",
+            "effect 4": "Silence",
+            "type": "Flora",
+            "description": "Merchants only - common import in Falkreath"
+        },
+        {
+            "name": "Bitterling",
+            "effect 1": "Waterbreathing",
+            "effect 2": "Weakness to Frost",
+            "effect 3": "Cure Disease",
+            "effect 4": "Restore Health",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Black Lichen",
+            "effect 1": "Slow",
+            "effect 2": "Cure Poison",
+            "effect 3": "Resist Frost",
+            "effect 4": "Drain Strength",
+            "type": "Flora",
+            "description": "A hardy primitive plant that grows in the harsh conditions of the Ashlands, Red Mountain, Molag Amur, and Azura's Coast"
+        },
+        {
+            "name": "Black Pearl",
+            "effect 1": "Damage Undead",
+            "effect 2": "Resist Paralysis",
+            "effect 3": "Cure Poison",
+            "effect 4": "Night Eye",
+            "type": "Flora",
+            "description": "A rare ingredient found in clams along Skyrim's Northern shoreline."
+        },
+        {
+            "name": "Blackbrow Bleak",
+            "effect 1": "Weakness to Frost",
+            "effect 2": "Cure Poison",
+            "effect 3": "Weakness to Fire",
+            "effect 4": "Weakness to Shock",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Blister Pod",
+            "effect 1": "Restore Magicka",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Night Eye",
+            "effect 4": "Invisibility",
+            "type": "Fungi",
+            "description": "Dementia - only available during quest Mind of Madness"
+        },
+        {
+            "name": "Bloatspore",
+            "effect 1": "Drain Intelligence",
+            "effect 2": "Fortify Alteration",
+            "effect 3": "Detect Life",
+            "effect 4": "Fortify Conjuration",
+            "type": "Flora",
+            "description": "Coldcinder Cave, Hrothmund's Barrow, Damphall Mine & Raven Rock Mine"
+        },
+        {
+            "name": "Blue Clipper Butterfly",
+            "effect 1": "Fortify Alteration",
+            "effect 2": "Damage Undead",
+            "effect 3": "Fortify Illusion",
+            "effect 4": "Fortify Speech",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Blue Mountain Flower Extract",
+            "effect 1": "Fortify Conjuration",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Damage Health",
+            "effect 4": "Restore Magicka",
+            "type": "Flowers",
+            "description": "See Blue Mountain Flower"
+        },
+        {
+            "name": "Blue Orfe",
+            "effect 1": "Restore Health",
+            "effect 2": "Cure Disease",
+            "effect 3": "Fatigue",
+            "effect 4": "Drain Intelligence",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Canis Root Extract",
+            "effect 1": "Damage Stamina",
+            "effect 2": "Fortify Marksman",
+            "effect 3": "Silence",
+            "effect 4": "Fortify Light Armor",
+            "type": "Flora",
+            "description": "See Canis Root"
+        },
+        {
+            "name": "Ceanothus Moth",
+            "effect 1": "Fortify Pickpocket",
+            "effect 2": "Fortify Lockpicking",
+            "effect 3": "Cure Poison",
+            "effect 4": "Lingering Damage Undead",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Cecropia Moth",
+            "effect 1": "Ravage Health",
+            "effect 2": "Damage Health",
+            "effect 3": "Fear",
+            "effect 4": "Resist Poison",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Chicken Feathers",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Fortify Pickpocket",
+            "effect 3": "Cure Poison",
+            "effect 4": "Weakness to Shock",
+            "type": "Fauna",
+            "description": "Frequently found on farms, though live chickens rarely give up their feathers."
+        },
+        {
+            "name": "Chokeberries",
+            "effect 1": "Weakness to Poison",
+            "effect 2": "Damage Health",
+            "effect 3": "Silence",
+            "effect 4": "Frenzy",
+            "type": "Flora",
+            "description": "   "
+        },
+        {
+            "name": "Clouded Funnel Cap",
+            "effect 1": "Damage Magicka",
+            "effect 2": "Restore Magicka",
+            "effect 3": "Damage Stamina",
+            "effect 4": "Fortify Conjuration",
+            "type": "Fungi",
+            "description": "Mushroom commonly found at high altitudes"
+        },
+        {
+            "name": "Columbine Root Extract",
+            "effect 1": "Fortify Speech",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Resist Frost",
+            "effect 4": "Etherealize",
+            "type": "Flora",
+            "description": "Refined from the columbine plant, originating from the Southern border of Cyrodiil."
+        },
+        {
+            "name": "Columbine Root Pulp",
+            "effect 1": "Fortify Speech",
+            "effect 2": "Fortify Magicka",
+            "effect 3": "Resist Frost",
+            "effect 4": "Etherealize",
+            "type": "Flora",
+            "description": "Imported from Cyrodiil, mainly by ship"
+        },
+        {
+            "name": "Comet Moth",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Fortify Alteration",
+            "effect 3": "Fortify Block",
+            "effect 4": "Fortify Heavy Armor",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Common Blue Butterfly",
+            "effect 1": "Weakness to Frost",
+            "effect 2": "Cure Disease",
+            "effect 3": "Regenerate Health",
+            "effect 4": "Regenerate Magicka",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Common Shiner",
+            "effect 1": "Resist Disease",
+            "effect 2": "Fortify Smithing",
+            "effect 3": "Fortify Unarmed",
+            "effect 4": "Waterbreathing",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Creep Cluster Extract",
+            "effect 1": "Feather",
+            "effect 2": "Damage Stamina Regen",
+            "effect 3": "Weakness to Magic",
+            "effect 4": "Restore Magicka",
+            "type": "Flora",
+            "description": "See Creep Cluster."
+        },
+        {
+            "name": "Crimson Marsh Glider",
+            "effect 1": "Resist Paralysis",
+            "effect 2": "Cure Disease",
+            "effect 3": "Weakness to Poison",
+            "effect 4": "Waterwalking",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Crushed Ant Paste",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Feather",
+            "effect 3": "Cure Poison",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Daedra Silk",
+            "effect 1": "Slow",
+            "effect 2": "Night-eye",
+            "effect 3": "Damage Stamina",
+            "effect 4": "Etherealize",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Daedra Venin",
+            "effect 1": "Paralysis",
+            "effect 2": "Ravage Health",
+            "effect 3": "Drain Intelligence",
+            "effect 4": "Restore Stamina",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Daedroth Teeth",
+            "effect 1": "Fortify Stamina",
+            "effect 2": "Frenzy",
+            "effect 3": "Night-eye",
+            "effect 4": "Drain Strength",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Darkwater Minnow",
+            "effect 1": "Weakness to Fire",
+            "effect 2": "Fortify Block",
+            "effect 3": "Waterbreathing",
+            "effect 4": "Fortify Speech",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Direnni's Dartwing",
+            "effect 1": "Weakness to Frost",
+            "effect 2": "Fortify Conjuration",
+            "effect 3": "Fortify Speed",
+            "effect 4": "Drain Strength",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Dragon Tooth",
+            "effect 1": "Restore Magicka",
+            "effect 2": "Fortify Two-handed",
+            "effect 3": "Weakness to Magic",
+            "effect 4": "Resist Paralysis",
+            "type": "Supernatural",
+            "description": "   "
+        },
+        {
+            "name": "Dragon's Tongue Extract",
+            "effect 1": "Fortify Speech",
+            "effect 2": "Resist Fire",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Fortify Illusion",
+            "type": "Flowers",
+            "description": "See Dragon's Tongue."
+        },
+        {
+            "name": "Dreugh Wax",
+            "effect 1": "Waterbreathing",
+            "effect 2": "Fatigue",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Resist Poison",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare sea import"
+        },
+        {
+            "name": "Druadach Dart",
+            "effect 1": "Lingering Damage Undead",
+            "effect 2": "Fortify Speed",
+            "effect 3": "Fortify Marksman",
+            "effect 4": "Waterbreathing",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Ebony Jewelwing",
+            "effect 1": "Resist Paralysis",
+            "effect 2": "Damage Magicka Regen",
+            "effect 3": "Resist Shock",
+            "effect 4": "Detect Life",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Elven Heart",
+            "effect 1": "Regenerate Magicka",
+            "effect 2": "Fortify Conjuration",
+            "effect 3": "Fortify Destruction",
+            "effect 4": "Fortify Illusion",
+            "type": "Miscellanea",
+            "description": "Only obtainable by harvesting from an Elf's chest"
+        },
+        {
+            "name": "Elves Ear Extract",
+            "effect 1": "Restore Magicka",
+            "effect 2": "Restore Health",
+            "effect 3": "Weakness to Frost",
+            "effect 4": "Resist Fire",
+            "type": "Flora",
+            "description": "See Elves Ear"
+        },
+        {
+            "name": "Emerald Darner",
+            "effect 1": "Waterwalking",
+            "effect 2": "Cure Disease",
+            "effect 3": "Damage Undead",
+            "effect 4": "Fortify Speed",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Emerald Swallowtail",
+            "effect 1": "Drain Intelligence",
+            "effect 2": "Fortify One-handed",
+            "effect 3": "Resist Disease",
+            "effect 4": "Fortify Alteration",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Emperor Dartwing",
+            "effect 1": "Fortify Restoration",
+            "effect 2": "Fortify Illusion",
+            "effect 3": "Fortify Unarmed",
+            "effect 4": "Damage Undead",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Emperor Moth",
+            "effect 1": "Fortify Magicka",
+            "effect 2": "Cure Disease",
+            "effect 3": "Weakness to Fire",
+            "effect 4": "Restore Magicka",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Falkreath Minnow",
+            "effect 1": "Fortify Light Armor",
+            "effect 2": "Weakness to Poison",
+            "effect 3": "Fortify Lockpicking",
+            "effect 4": "Resist Paralysis",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Falmer Blood",
+            "effect 1": "Fortify Sneak",
+            "effect 2": "Resist Poison",
+            "effect 3": "Restore Magicka",
+            "effect 4": "Restore Stamina",
+            "type": "Supernatural",
+            "description": "Blood extractor and a fresh corpse required."
+        },
+        {
+            "name": "Fennel Seed Extract",
+            "effect 1": "Fortify Magicka",
+            "effect 2": "Fortify Stamina",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Weakness to Poison",
+            "type": "Flora",
+            "description": "See fennel seed."
+        },
+        {
+            "name": "Fennel Seeds",
+            "effect 1": "Fortify Magicka",
+            "effect 2": "Fortify Stamina",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Weakness to Poison",
+            "type": "Flora",
+            "description": "Sold by Merchants - Primarily a sea import"
+        },
+        {
+            "name": "Fire Petals",
+            "effect 1": "Resist Fire",
+            "effect 2": "Lingering Damage Health",
+            "effect 3": "Resist Paralysis",
+            "effect 4": "Ravage Health",
+            "type": "Flora",
+            "description": "Ashlands/Solstheim"
+        },
+        {
+            "name": "Flame Skimmer",
+            "effect 1": "Weakness to Frost",
+            "effect 2": "Fortify Speed",
+            "effect 3": "Cure Poison",
+            "effect 4": "Damage Magicka Regen",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Flax Seed Extract",
+            "effect 1": "Feather",
+            "effect 2": "Fortify Block",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Restore Magicka",
+            "type": "Flora",
+            "description": "See flax seed."
+        },
+        {
+            "name": "Flax Seeds",
+            "effect 1": "Feather",
+            "effect 2": "Fortify Block",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Restore Magicka",
+            "type": "Flora",
+            "description": "Sold by Merchants - Primarily a sea import"
+        },
+        {
+            "name": "Fox Fat",
+            "effect 1": "Fortify Lockpicking",
+            "effect 2": "Fortify Speech",
+            "effect 3": "Fortify Pickpocket",
+            "effect 4": "Lingering Damage Undead",
+            "type": "Fauna",
+            "description": "Infrequently obtained from dead foxes."
+        },
+        {
+            "name": "Foxglove Nectar",
+            "effect 1": "Resist Poison",
+            "effect 2": "Resist Disease",
+            "effect 3": "Resist Paralysis",
+            "effect 4": "Night-eye",
+            "type": "Flora",
+            "description": "Sold by Merchants - Primarily a sea import"
+        },
+        {
+            "name": "Frogspawn",
+            "effect 1": "Waterbreathing",
+            "effect 2": "Cure Disease",
+            "effect 3": "Weakness to Frost",
+            "effect 4": "Fortify Pickpocket",
+            "type": "Miscellanea",
+            "description": "   "
+        },
+        {
+            "name": "Frost Mirriam Extract",
+            "effect 1": "Resist Frost",
+            "effect 2": "Fortify Stamina",
+            "effect 3": "Fortify Magicka",
+            "effect 4": "Weakness to Fire",
+            "type": "Flora",
+            "description": "See Frost Mirriam."
+        },
+        {
+            "name": "Frost Skimmer",
+            "effect 1": "Weakness to Fire",
+            "effect 2": "Resist Frost",
+            "effect 3": "Restore Stamina",
+            "effect 4": "Waterwalking",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Garlic Extract",
+            "effect 1": "Resist Disease",
+            "effect 2": "Regenerate Stamina",
+            "effect 3": "Regenerate Health",
+            "effect 4": "Regenerate Magicka",
+            "type": "Flora",
+            "description": "See Garlic"
+        },
+        {
+            "name": "Giant's Blood",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Fortify Smithing",
+            "effect 3": "Weakness to Shock",
+            "effect 4": "Resist Disease",
+            "type": "Supernatural",
+            "description": "Blood extractor and a fresh corpse required."
+        },
+        {
+            "name": "Ginseng",
+            "effect 1": "Fortify Magicka",
+            "effect 2": "Cure Poison",
+            "effect 3": "Slow",
+            "effect 4": "Damage Undead",
+            "type": "Flora",
+            "description": "Primarily a sea import (some import by land via Riften)"
+        },
+        {
+            "name": "Glowing Mushroom Extract",
+            "effect 1": "Etherealize",
+            "effect 2": "Resist Shock",
+            "effect 3": "Fortify Destruction",
+            "effect 4": "Fortify Health",
+            "type": "Flora",
+            "description": "See Glowing Mushroom."
+        },
+        {
+            "name": "Goat Eye",
+            "effect 1": "Damage Stamina",
+            "effect 2": "Fortify Illusion",
+            "effect 3": "Damage Magicka Regen",
+            "effect 4": "Damage Stamina Regen",
+            "type": "Fauna",
+            "description": "Harvested from (dead) goats."
+        },
+        {
+            "name": "Golden Rudd",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Fortify Restoration",
+            "effect 3": "Resist Disease",
+            "effect 4": "Lingering Damage Health",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Golden Skimmer",
+            "effect 1": "Weakness to Shock",
+            "effect 2": "Waterwalking",
+            "effect 3": "Frenzy",
+            "effect 4": "Resist Poison",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Golden-Ringed Darner",
+            "effect 1": "Fortify Lockpicking",
+            "effect 2": "Fortify Light Armor",
+            "effect 3": "Damage Stamina Regen",
+            "effect 4": "Fortify Block",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Gravedust",
+            "effect 1": "Fortify Smithing",
+            "effect 2": "Drain Intelligence",
+            "effect 3": "Damage Undead",
+            "effect 4": "Cure Disease",
+            "type": "Miscellanea",
+            "description": "Spirit-affinitive dust taken from remains buried in consecrated ground"
+        },
+        {
+            "name": "Gravetar",
+            "effect 1": "Fear",
+            "effect 2": "Resist Frost",
+            "effect 3": "Ravage Health",
+            "effect 4": "Fortify Two-handed",
+            "type": "Supernatural",
+            "description": "Found on Draugr & Dragon Priests"
+        },
+        {
+            "name": "Green Tench",
+            "effect 1": "Weakness to Poison",
+            "effect 2": "Fortify Two-handed",
+            "effect 3": "Resist Shock",
+            "effect 4": "Ravage Health",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Gudgeon",
+            "effect 1": "Resist Disease",
+            "effect 2": "Regenerate Health",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Fortify Health",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Hanging Moss Extract",
+            "effect 1": "Damage Magicka Regen",
+            "effect 2": "Fortify Stamina",
+            "effect 3": "Fortify One-handed",
+            "effect 4": "Damage Magicka",
+            "type": "Flora",
+            "description": "See hanging moss"
+        },
+        {
+            "name": "Heather",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Fortify Speech",
+            "effect 3": "Slow",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Flora",
+            "description": "   "
+        },
+        {
+            "name": "Heather Extract",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Fortify Speech",
+            "effect 3": "Slow",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Flora",
+            "description": "See Heather"
+        },
+        {
+            "name": "Horse Hair",
+            "effect 1": "Fortify Speed",
+            "effect 2": "Cure Poison",
+            "effect 3": "Resist Shock",
+            "effect 4": "Weakness to Poison",
+            "type": "Fauna",
+            "description": "Keratinous fibres found on the exterior of the quadrupedal mammals known as horses."
+        },
+        {
+            "name": "Imp Gall",
+            "effect 1": "Fortify Speech",
+            "effect 2": "Resist Paralysis",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Weakness to Fire",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Ironwood Extract",
+            "effect 1": "Fortify Health",
+            "effect 2": "Fortify Conjuration",
+            "effect 3": "Resist Fire",
+            "effect 4": "Fatigue",
+            "type": "Flora",
+            "description": "See Ironwood"
+        },
+        {
+            "name": "Ironwood Nuts",
+            "effect 1": "Fortify Health",
+            "effect 2": "Fortify Conjuration",
+            "effect 3": "Resist Fire",
+            "effect 4": "Fatigue",
+            "type": "Flora",
+            "description": "Sold by Merchants"
+        },
+        {
+            "name": "Jazbay Extract",
+            "effect 1": "Fortify Magicka",
+            "effect 2": "Weakness to Magic",
+            "effect 3": "Ravage Health",
+            "effect 4": "Regenerate Magicka",
+            "type": "Flora",
+            "description": "See Jazaby Grapes"
+        },
+        {
+            "name": "Juniper Berry Extract",
+            "effect 1": "Fortify Marksman",
+            "effect 2": "Damage Stamina Regen",
+            "effect 3": "Regenerate Health",
+            "effect 4": "Weakness to Fire",
+            "type": "Flora",
+            "description": "See Juniper Berries"
+        },
+        {
+            "name": "Khajiit Eye",
+            "effect 1": "Night Eye",
+            "effect 2": "Fortify Pickpocket",
+            "effect 3": "Detect Life",
+            "effect 4": "Fear",
+            "type": "Miscellanea",
+            "description": "   "
+        },
+        {
+            "name": "Kwama Cuttle",
+            "effect 1": "Resist Poison",
+            "effect 2": "Fatigue",
+            "effect 3": "Waterwalking",
+            "effect 4": "Waterbreathing",
+            "type": "Supernatural",
+            "description": "Imported by ship"
+        },
+        {
+            "name": "Kwama Egg",
+            "effect 1": "Fortify Health",
+            "effect 2": "Restore Stamina",
+            "effect 3": "Resist Frost",
+            "effect 4": "Resist Paralysis",
+            "type": "Supernatural",
+            "description": "Imported by ship"
+        },
+        {
+            "name": "Lavender Extract",
+            "effect 1": "Fortify Speech",
+            "effect 2": "Fortify Stamina",
+            "effect 3": "Drain Intelligence",
+            "effect 4": "Fortify Conjuration",
+            "type": "Flowers",
+            "description": "See Lavendar"
+        },
+        {
+            "name": "Lotus Seeds",
+            "effect 1": "Waterwalking",
+            "effect 2": "Feather",
+            "effect 3": "Cure Poison",
+            "effect 4": "Lingering Damage Health",
+            "type": "Flora",
+            "description": "   "
+        },
+        {
+            "name": "Mandrake Root",
+            "effect 1": "Fear",
+            "effect 2": "Cure Disease",
+            "effect 3": "Fortify Destruction",
+            "effect 4": "Resist Poison",
+            "type": "Flora",
+            "description": "Sold by Merchants"
+        },
+        {
+            "name": "Marsh Fritillary",
+            "effect 1": "Fortify Speed",
+            "effect 2": "Fortify Light Armor",
+            "effect 3": "Fortify Illusion",
+            "effect 4": "Fear",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Marshmerrow",
+            "effect 1": "Regenerate Health",
+            "effect 2": "Damage Stamina Regen",
+            "effect 3": "Restore Health",
+            "effect 4": "Fortify Enchanting",
+            "type": "Flora",
+            "description": "Food frequently farmed in the south"
+        },
+        {
+            "name": "Marshmerrow Extract",
+            "effect 1": "Regenerate Health",
+            "effect 2": "Damage Stamina Regen",
+            "effect 3": "Restore Health",
+            "effect 4": "Fortify Enchanting",
+            "type": "Flora",
+            "description": "See Marshmerrow"
+        },
+        {
+            "name": "Monkshood Root Pulp",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Drain Intelligence",
+            "effect 3": "Slow",
+            "effect 4": "Fortify Heavy Armor",
+            "type": "Flora",
+            "description": "Merchants only - common import in Falkreath & Riften"
+        },
+        {
+            "name": "Morning Glory Root Pulp",
+            "effect 1": "Fortify Illusion",
+            "effect 2": "Resist Frost",
+            "effect 3": "Slow",
+            "effect 4": "Lingering Damage Undead",
+            "type": "Flora",
+            "description": "Primarily a sea import"
+        },
+        {
+            "name": "Mourning Cloak",
+            "effect 1": "Damage Undead",
+            "effect 2": "Fortify Lockpicking",
+            "effect 3": "Resist Disease",
+            "effect 4": "Lingering Damage Undead",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Mugwort Seeds",
+            "effect 1": "Restore Health",
+            "effect 2": "Fortify One-handed",
+            "effect 3": "Fortify Light Armor",
+            "effect 4": "Regenerate Stamina",
+            "type": "Flora",
+            "description": "Primarily a sea import"
+        },
+        {
+            "name": "Nightshade Extract",
+            "effect 1": "Fortify Destruction",
+            "effect 2": "Damage Undead",
+            "effect 3": "Damage Magicka Regen",
+            "effect 4": "Damage Health",
+            "type": "Flowers",
+            "description": "See Nightshade"
+        },
+        {
+            "name": "Nordic Swallowtail",
+            "effect 1": "Restore Health",
+            "effect 2": "Weakness to Fire",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Resist Magic",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Ogre's Teeth",
+            "effect 1": "Frenzy",
+            "effect 2": "Fortify Unarmed",
+            "effect 3": "Weakness to Shock",
+            "effect 4": "Resist Poison",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Onyx",
+            "effect 1": "Fortify Block",
+            "effect 2": "Fortify Smithing",
+            "effect 3": "Weakness to Shock",
+            "effect 4": "Resist Shock",
+            "type": "Miscellanea",
+            "description": "   "
+        },
+        {
+            "name": "Orange Tip Butterfly",
+            "effect 1": "Weakness to Fire",
+            "effect 2": "Detect Life",
+            "effect 3": "Cure Disease",
+            "effect 4": "Fortify Marksman",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Orc Liver",
+            "effect 1": "Fortify Heavy Armor",
+            "effect 2": "Fortify Smithing",
+            "effect 3": "Regenerate Stamina",
+            "effect 4": "Fortify Stamina",
+            "type": "Miscellanea",
+            "description": "   "
+        },
+        {
+            "name": "Oxgall",
+            "effect 1": "Damage Stamina",
+            "effect 2": "Fortify Unarmed",
+            "effect 3": "Fortify Heavy Armor",
+            "effect 4": "Fortify Restoration",
+            "type": "Fauna",
+            "description": "Harvested from cows"
+        },
+        {
+            "name": "Padomaic Tigerfish",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Frenzy",
+            "effect 3": "Fortify Alteration",
+            "effect 4": "Waterbreathing",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Painted Lady",
+            "effect 1": "Damage Magicka Regen",
+            "effect 2": "Weakness to Poison",
+            "effect 3": "Cure Poison",
+            "effect 4": "Resist Poison",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Peacock Butterfly",
+            "effect 1": "Fortify Block",
+            "effect 2": "Cure Disease",
+            "effect 3": "Fortify Pickpocket",
+            "effect 4": "Fortify Sneak",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Peony Seeds",
+            "effect 1": "Fortify Stamina",
+            "effect 2": "Slow",
+            "effect 3": "Lingering Damage Health",
+            "effect 4": "Restore Stamina",
+            "type": "Flora",
+            "description": "Primarily a sea import"
+        },
+        {
+            "name": "Pheasant Feathers",
+            "effect 1": "Fortify Pickpocket",
+            "effect 2": "Fortify Restoration",
+            "effect 3": "Cure Disease",
+            "effect 4": "Damage Stamina",
+            "type": "Fauna",
+            "description": "Occasionally found of pheasants."
+        },
+        {
+            "name": "Polyphemus Moth",
+            "effect 1": "Fortify Illusion",
+            "effect 2": "Fear",
+            "effect 3": "Fortify Conjuration",
+            "effect 4": "Detect Life",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Purple Mountain Flower Extract",
+            "effect 1": "Fortify Sneak",
+            "effect 2": "Fortify Marksman",
+            "effect 3": "Lingering Damage Undead",
+            "effect 4": "Restore Stamina",
+            "type": "Flowers",
+            "description": "See purple mountain flower."
+        },
+        {
+            "name": "Putrefied Flesh",
+            "effect 1": "Ravage Health",
+            "effect 2": "Damage Magicka Regen",
+            "effect 3": "Drain Strength",
+            "effect 4": "Resist Poison",
+            "type": "Supernatural",
+            "description": "Harvested from Death Hounds"
+        },
+        {
+            "name": "Racer Plumes",
+            "effect 1": "Fortify Speed",
+            "effect 2": "Fortify Sneak",
+            "effect 3": "Regenerate Stamina",
+            "effect 4": "Damage Undead",
+            "type": "Supernatural",
+            "description": "   "
+        },
+        {
+            "name": "Red Admiral Butterfly",
+            "effect 1": "Weakness to Magic",
+            "effect 2": "Restore Health",
+            "effect 3": "Damage Stamina Regen",
+            "effect 4": "Resist Poison",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Red Cracker Butterfly",
+            "effect 1": "Fortify Pickpocket",
+            "effect 2": "Weakness to Poison",
+            "effect 3": "Cure Poison",
+            "effect 4": "Ravage Health",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Red Lichen",
+            "effect 1": "Slow",
+            "effect 2": "Fortify Speech",
+            "effect 3": "Cure Disease",
+            "effect 4": "Drain Intelligence",
+            "type": "Flora",
+            "description": "a hardy primitive plant that grows in the harsh conditions of Red Mountain, Molag Amur, and the Ashlands"
+        },
+        {
+            "name": "Red Mountain Flower Extract",
+            "effect 1": "Drain Intelligence",
+            "effect 2": "Fortify Health",
+            "effect 3": "Damage Magicka Regen",
+            "effect 4": "Restore Health",
+            "type": "Flowers",
+            "description": "See Red Mountain Flower."
+        },
+        {
+            "name": "Redbelly Dace",
+            "effect 1": "Fortify Restoration",
+            "effect 2": "Cure Disease",
+            "effect 3": "Cure Poison",
+            "effect 4": "Weakness to Frost",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Redwort Flower",
+            "effect 1": "Fortify Destruction",
+            "effect 2": "Ravage Health",
+            "effect 3": "Resist Frost",
+            "effect 4": "Cure Poison",
+            "type": "Flowers",
+            "description": "   "
+        },
+        {
+            "name": "Roobrush",
+            "effect 1": "Fortify Pickpocket",
+            "effect 2": "Damage Stamina Regen",
+            "effect 3": "Cure Poison",
+            "effect 4": "Lingering Damage Health",
+            "type": "Flora",
+            "description": "low growing shrub found in rocky scrubland in solstheim"
+        },
+        {
+            "name": "Ruby Shiner",
+            "effect 1": "Resist Disease",
+            "effect 2": "Weakness to Frost",
+            "effect 3": "Restore Health",
+            "effect 4": "Restore Magicka",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Saltrice",
+            "effect 1": "Regenerate Stamina",
+            "effect 2": "Fortify Health",
+            "effect 3": "Damage Undead",
+            "effect 4": "Fortify Stamina",
+            "type": "Flora",
+            "description": ""
+        },
+        {
+            "name": "Saltrice Extract",
+            "effect 1": "Regenerate Stamina",
+            "effect 2": "Fortify Health",
+            "effect 3": "Damage Undead",
+            "effect 4": "Fortify Stamina",
+            "type": "Flora",
+            "description": "See Saltrice."
+        },
+        {
+            "name": "Sawtooth Butterfly",
+            "effect 1": "Fortify Marksman",
+            "effect 2": "Night-eye",
+            "effect 3": "Resist Paralysis",
+            "effect 4": "Weakness to Frost",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Scamp Skin",
+            "effect 1": "Lingering Damage Health",
+            "effect 2": "Resist Shock",
+            "effect 3": "Damage Magicka",
+            "effect 4": "Fortify Block",
+            "type": "Supernatural",
+            "description": "Merchants only - Rare"
+        },
+        {
+            "name": "Scrib Jelly",
+            "effect 1": "Fortify Restoration",
+            "effect 2": "Cure Poison",
+            "effect 3": "Cure Disease",
+            "effect 4": "Fortify Alteration",
+            "type": "Supernatural",
+            "description": "   "
+        },
+        {
+            "name": "Silverjaw Minnow",
+            "effect 1": "Damage Undead",
+            "effect 2": "Waterbreathing",
+            "effect 3": "Lingering Damage Undead",
+            "effect 4": "Cure Disease",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Sload Soap",
+            "effect 1": "Damage Undead",
+            "effect 2": "Fortify Pickpocket",
+            "effect 3": "Resist Fire",
+            "effect 4": "Fortify Sneak",
+            "type": "Supernatural",
+            "description": "Merchants only - Uncommon"
+        },
+        {
+            "name": "Snowberry Extract",
+            "effect 1": "Fortify Enchanting",
+            "effect 2": "Resist Fire",
+            "effect 3": "Resist Frost",
+            "effect 4": "Resist Shock",
+            "type": "Flora",
+            "description": "See Snowberry."
+        },
+        {
+            "name": "Spider Silk",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Resist Disease",
+            "effect 3": "Fortify Light Armor",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Supernatural",
+            "description": "   "
+        },
+        {
+            "name": "Spiky Grass Extract",
+            "effect 1": "Drain Intelligence",
+            "effect 2": "Cure Poison",
+            "effect 3": "Fortify Alteration",
+            "effect 4": "Restore Magicka",
+            "type": "Flora",
+            "description": "See Spiky Grass"
+        },
+        {
+            "name": "St. Jahn's Wort Nectar",
+            "effect 1": "Waterbreathing",
+            "effect 2": "Cure Poison",
+            "effect 3": "Resist Shock",
+            "effect 4": "Etherealize",
+            "type": "Flora",
+            "description": "Merchants only - Uncommon, Falkreath"
+        },
+        {
+            "name": "Stoneflower",
+            "effect 1": "Lingering Damage Undead",
+            "effect 2": "Restore Stamina",
+            "effect 3": "Fortify Speech",
+            "effect 4": "Restore Magicka",
+            "type": "Flowers",
+            "description": "   "
+        },
+        {
+            "name": "Sulfur",
+            "effect 1": "Resist Disease",
+            "effect 2": "Lingering Damage Undead",
+            "effect 3": "Restore Stamina",
+            "effect 4": "Ravage Health",
+            "type": "Miscellanea",
+            "description": "Commonly found in hydrothermal areas."
+        },
+        {
+            "name": "Swamp Betty",
+            "effect 1": "Weakness to Shock",
+            "effect 2": "Fortify Heavy Armor",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Paralysis",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Thistle Extract",
+            "effect 1": "Fatigue",
+            "effect 2": "Fortify Heavy Armor",
+            "effect 3": "Resist Poison",
+            "effect 4": "Resist Frost",
+            "type": "Flora",
+            "description": "See Thistle."
+        },
+        {
+            "name": "Tiger Lily Nectar",
+            "effect 1": "Waterwalking",
+            "effect 2": "Fortify Smithing",
+            "effect 3": "Drain Strength",
+            "effect 4": "Frenzy",
+            "type": "Flora",
+            "description": "Merchants only - Uncommon, Falkreath"
+        },
+        {
+            "name": "Tinder Polypore Cap",
+            "effect 1": "Fortify Alteration",
+            "effect 2": "Damage Magicka",
+            "effect 3": "Invisibility",
+            "effect 4": "Resist Disease",
+            "type": "Fungi",
+            "description": "Small clusters on the south side of trees in the Valus & Velothi Mountains"
+        },
+        {
+            "name": "Troll's Blood",
+            "effect 1": "Regenerate Health",
+            "effect 2": "Weakness to Fire",
+            "effect 3": "Fortify Health",
+            "effect 4": "Ravage Health",
+            "type": "Supernatural",
+            "description": "Blood extractor and a fresh corpse required."
+        },
+        {
+            "name": "Tundra Cotton Extract",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Resist Paralysis",
+            "effect 3": "Fortify Block",
+            "effect 4": "Fortify Speech",
+            "type": "Flowers",
+            "description": "See Tundra Cotton."
+        },
+        {
+            "name": "Violet Coprinus",
+            "effect 1": "Fatigue",
+            "effect 2": "Ravage Health",
+            "effect 3": "Fortify Speed",
+            "effect 4": "Waterwalking",
+            "type": "Fungi",
+            "description": "Fahlbtharz mushroom garden"
+        },
+        {
+            "name": "Warpaint Shiner",
+            "effect 1": "Damage Stamina Regen",
+            "effect 2": "Fortify Illusion",
+            "effect 3": "Damage Magicka Regen",
+            "effect 4": "Fortify Health",
+            "type": "Fishes",
+            "description": "Lakes, rivers, streams and fish barrels."
+        },
+        {
+            "name": "Water Hyacinth Nectar",
+            "effect 1": "Waterbreathing",
+            "effect 2": "Weakness to Magic",
+            "effect 3": "Restore Magicka",
+            "effect 4": "Fatigue",
+            "type": "Flora",
+            "description": "Merchants only - Rare sea import"
+        },
+        {
+            "name": "Werebear Claws",
+            "effect 1": "Fortify Block",
+            "effect 2": "Fortify One-handed",
+            "effect 3": "Fortify Two-handed",
+            "effect 4": "Resist Poison",
+            "type": "Supernatural",
+            "description": "   "
+        },
+        {
+            "name": "Werewolf Blood",
+            "effect 1": "Detect Life",
+            "effect 2": "Fear",
+            "effect 3": "Fortify Alteration",
+            "effect 4": "Cure Disease",
+            "type": "Supernatural",
+            "description": "Blood extractor and a fresh corpse required."
+        },
+        {
+            "name": "Wheat Extract",
+            "effect 1": "Restore Health",
+            "effect 2": "Fortify Health",
+            "effect 3": "Damage Magicka Regen",
+            "effect 4": "Damage Stamina Regen",
+            "type": "Flora",
+            "description": "See Wheat."
+        },
+        {
+            "name": "White Witch Moth",
+            "effect 1": "Weakness to Poison",
+            "effect 2": "Silence",
+            "effect 3": "Fortify Sneak",
+            "effect 4": "Fortify One-handed",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Widow Skimmer",
+            "effect 1": "Waterwalking",
+            "effect 2": "Weakness to Shock",
+            "effect 3": "Ravage Health",
+            "effect 4": "Fortify Lockpicking",
+            "type": "Insects",
+            "description": "   "
+        },
+        {
+            "name": "Wisp Stalks",
+            "effect 1": "Waterwalking",
+            "effect 2": "Damage Stamina",
+            "effect 3": "Damage Health",
+            "effect 4": "Damage Magicka",
+            "type": "Fungi",
+            "description": "Found in caves"
+        },
+        {
+            "name": "Wolf Liver",
+            "effect 1": "Fortify Unarmed",
+            "effect 2": "Weakness to Fire",
+            "effect 3": "Resist Disease",
+            "effect 4": "Detect Life",
+            "type": "Fauna",
+            "description": "Commonly found in recently deceased wolves!"
+        },
+        {
+            "name": "Wormwood Leaves",
+            "effect 1": "Lingering Damage Health",
+            "effect 2": "Lingering Damage Undead",
+            "effect 3": "Fortify Sneak",
+            "effect 4": "Fortify Marksman",
+            "type": "Flora",
+            "description": "Found in the Jerall Mountains, growing in cold alpine regions"
+        }
+    ]
+}

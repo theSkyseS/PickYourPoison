@@ -1,0 +1,224 @@
+﻿{
+    "EffectsList": [
+        {
+            "name": "Cure Disease",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Damage Health",
+            "type": "Poisons"
+        },
+        {
+            "name": "Damage Magicka",
+            "type": "Poisons"
+        },
+        {
+            "name": "Damage Magicka Regen",
+            "type": "Poisons"
+        },
+        {
+            "name": "Damage Stamina",
+            "type": "Poisons"
+        },
+        {
+            "name": "Damage Stamina Regen",
+            "type": "Poisons"
+        },
+        {
+            "name": "Fear",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Fortify Alteration",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Barter",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Block",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Carry Weight",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Conjuration",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Destruction",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Enchanting",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Health",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Heavy Armor",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Illusion",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Light Armor",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Lockpicking",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Magicka",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Marksman",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify One-handed",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Pickpocket",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Restoration",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Smithing",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Sneak",
+            "type": "Fortification: Mages & Thieves"
+        },
+        {
+            "name": "Fortify Stamina",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Fortify Two-handed",
+            "type": "Fortification: Warriors & Misc."
+        },
+        {
+            "name": "Frenzy",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Invisibility",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Lingering Damage Health",
+            "type": "Poisons"
+        },
+        {
+            "name": "Lingering Damage Magicka",
+            "type": "Poisons"
+        },
+        {
+            "name": "Lingering Damage Stamina",
+            "type": "Poisons"
+        },
+        {
+            "name": "Paralysis",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Ravage Health",
+            "type": "Poisons"
+        },
+        {
+            "name": "Ravage Magicka",
+            "type": "Poisons"
+        },
+        {
+            "name": "Ravage Stamina",
+            "type": "Poisons"
+        },
+        {
+            "name": "Regenerate Health",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Regenerate Magicka",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Regenerate Stamina",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Resist Fire",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Resist Frost",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Resist Magic",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Resist Poison",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Resist Shock",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Restore Health",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Restore Magicka",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Restore Stamina",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Slow",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Waterbreathing",
+            "type": "Healing and Resistance"
+        },
+        {
+            "name": "Weakness to Fire",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Weakness to Frost",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Weakness to Magic",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Weakness to Poison",
+            "type": "Weaknesses and Manipulation"
+        },
+        {
+            "name": "Weakness to Shock",
+            "type": "Weaknesses and Manipulation"
+        }
+    ]
+}

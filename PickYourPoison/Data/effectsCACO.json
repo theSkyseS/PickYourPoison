@@ -1,0 +1,52 @@
+﻿{
+    "EffectsList": [
+        {
+            "name": "Cure Poison",
+            "type": "Healing and Resistance"
+        }, 
+        {
+            "name": "Resist Disease",
+            "type": "Healing and Resistance"
+        }, 
+        {
+            "name": "Waterwalking",
+            "type": "Healing and Resistance"
+        }, 
+        {
+            "name": "Fortify Unarmed",
+            "type": "Fortification: Warriors & Misc."
+        }, 
+        {
+            "name": "Detect Life",
+            "type": "Fortification: Mages & Thieves"
+        }, 
+        {
+            "name": "Fortify Speed",
+            "type": "Fortification: Warriors & Misc."
+        }, 
+        {
+            "name": "Resist Paralysis",
+            "type": "Healing and Resistance"
+        },  
+        {
+            "name": "Night Eye",
+            "type": "Fortification: Mages & Thieves"
+        },  
+        {
+            "name": "Drain Intelligence",
+            "type": "Weaknesses and Manipulation"
+        },  
+        {
+            "name": "Drain Strength",
+            "type": "Weaknesses and Manipulation"
+        },  
+        {
+            "name": "Etherealize",
+            "type": "Fortification: Mages & Thieves"
+        }, 
+        {
+            "name": "Feather",
+            "type": "Fortification: Warriors & Misc"
+        }
+    ]
+}

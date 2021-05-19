@@ -1,0 +1,10 @@
+{
+  "Nickname": "PickYourPoison",
+  "Visibility": "Visible",
+  "OneLineDescription": "Port of Pick Your Poison's zEdit module",
+  "LongDescription": "Port of Pick Your Poison's zEdit module\n",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "pick_your_poison.esp"
+  ]
+}
